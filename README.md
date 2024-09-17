@@ -5,6 +5,8 @@
 
 [Adventure Works 2022](Dashboard.MP4)
 
+![Dashboard 1-page](Dashboard.gif)
+
 ### Dashboard 1-page
 ![Dashboard 1-page](1.png)
 ### Dashboard 2-page
