@@ -2,7 +2,8 @@
 
 ## Dashboard Preview
 
-<video src="Dashboard.MP4" controls title="Title"></video>
+[Adventure Works 2022](Dashboard.mp4)
+
 
 
 ## Overview
