@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![GIF](https://your-gif-link.com/your-gif.gif)
+<video src="Dashboard.MP4" controls title="Title"></video>
 
 
 ## Overview
