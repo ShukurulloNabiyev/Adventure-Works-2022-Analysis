@@ -2,12 +2,8 @@
 
 ## Dashboard Preview
 
-<<<<<<< HEAD
 [Adventure Works 2022](Dashboard.mp4)
 
-=======
-!<video src="Dashboard.MP4" controls title="Title"></video>
->>>>>>> 29ddb49fb59cae699c83a30849d907e8f1e57c65
 
 
 ## Overview
