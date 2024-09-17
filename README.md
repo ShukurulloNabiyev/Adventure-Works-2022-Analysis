@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-<video src="Dashboard.MP4" controls title="Title"></video>
+!<video src="Dashboard.MP4" controls title="Title"></video>
 
 
 ## Overview
